@@ -15,7 +15,7 @@ const projectsData = [
     title: "Sold Out",
     slug: "sold-out",
     tag: "3D Games",
-    desc: "3D Platformer action game.",
+    desc: "3D Platformer, Cozy, Food, Management.",
     image: "/images/sold-out-preview.png"
   },
   
@@ -23,7 +23,7 @@ const projectsData = [
     title: "3D Assets Collection",
     slug: "3d-portfolio",
     tag: "3D Modeling",
-    desc: "High-quality 3D assets for various game projects.",
+    desc: "High-quality 3D assets for various projects.",
     image: "/images/blender-preview.jpg"
   },
   {
