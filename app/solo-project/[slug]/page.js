@@ -24,8 +24,8 @@ export default function ProjectDetail({ params }) {
   }
 
   const nextProject = myProjects[(projectIndex + 1) % myProjects.length];
-  const shareText = encodeURIComponent(`Lihat aset 2D art ${project.title} karya Rafif phafillah .W.!`);
-  const baseAppUrl = "https://rafif-phafillah-portfolio.vercel.app";
+  const shareText = encodeURIComponent(`Lihat aset 2D art ${project.title} karya Rafif Padhillah .W.!`);
+  const baseAppUrl = "https://rafif-padhillah-portfolio.vercel.app";
   const shareUrl = encodeURIComponent(`${baseAppUrl}/professional/${project.slug}`);
 
   return (
@@ -189,7 +189,7 @@ export default function ProjectDetail({ params }) {
       </div>
       
       <footer className="py-12 text-center text-slate-600 text-sm">
-        © {new Date().getFullYear()} Rafif Phafillah .W - Game Artist Portfolio.
+        © {new Date().getFullYear()} Rafif Padhillah .W - Game Artist Portfolio.
       </footer>
     </motion.main>
   );
