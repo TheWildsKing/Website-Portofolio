@@ -14,8 +14,8 @@ const projectsData = [
   {
     title: "Sold Out",
     slug: "sold-out",
-    tag: "3D Games",
-    desc: "3D Platformer, Cozy, Food, Management.",
+    tag: "3D Games Platformer, Cozy, Food & Management",
+    desc: "3D Platformer Cozy Game",
     image: "/images/sold-out-preview.png"
   },
   
