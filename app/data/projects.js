@@ -57,7 +57,7 @@ export const myProjects = [
     must complete customer orders within a strict time limit.`,
           image: "/images/sold-out-preview.png",
     videoID: "jxHOBArhZjA",
-    tools: ["Unity", "Adobe Ilustrator"],
+    tools: ["Unity", "Blender"],
     downloadUrl: "https://kelompok-1-agate-msib.itch.io/sold-out",
     gallery: [
       "/images/sold-asset1.png",
