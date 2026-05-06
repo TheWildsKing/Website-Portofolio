@@ -15,7 +15,7 @@ export default function Footer() {
             className="mb-6"
           >
             <h2 className="text-2xl font-bold text-white tracking-tighter">
-              Rafif Phafillah .W
+              Rafif Padhillah .W
             </h2>
             <p className="text-blue-500 font-medium text-sm mt-2 uppercase tracking-[0.2em]">
               2D & 3D Artist | S.Tr.Kom
@@ -34,7 +34,7 @@ export default function Footer() {
           </motion.p>
 
           <div className="mt-10 pt-8 border-t border-white/5 w-full text-slate-600 text-[10px] tracking-[0.3em] uppercase">
-            © {new Date().getFullYear()} Rafif Phafillah .W • Terkoneksi via Politeknik Negeri Media Kreatif
+            © {new Date().getFullYear()} Rafif Padhillah .W • Terkoneksi via Politeknik Negeri Media Kreatif
           </div>
           
         </div>
