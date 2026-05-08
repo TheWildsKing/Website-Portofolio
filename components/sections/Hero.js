@@ -33,7 +33,7 @@ export default function Hero() {
           </h1>
           
           <p className="text-slate-400 text-sm md:text-base leading-relaxed mb-6 max-w-md">
-            I am a 3D Artist with a D4 degree in Game Technology from Politeknik Negeri Media Kreatif, 
+            I am a 2D & 3D Artist with a D4 degree in Game Technology from Politeknik Negeri Media Kreatif, 
             with experience in creating 3D assets for games. I have strong technical skills and visual creativity, 
             and I am accustomed to working with game asset pipelines from modeling to final integration.
           </p>
