@@ -29,7 +29,7 @@ export default function Footer() {
             transition={{ delay: 0.2 }}
             className="text-slate-500 text-sm max-w-md leading-relaxed"
           >
-            Berfokus pada pengembangan asset game 2D dan modeling 3D. 
+            Berfokus pada pengembangan asset game 2D dan 3D. 
             Terima kasih telah berkunjung ke portofolio saya.
           </motion.p>
 
