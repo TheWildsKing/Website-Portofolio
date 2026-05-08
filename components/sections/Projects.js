@@ -23,7 +23,7 @@ const projectsData = [
     title: "3D Assets Collection",
     slug: "3d-portfolio",
     tag: "3D Art",
-    desc: "High-quality 3D assets for various projects.",
+    desc: "A collection of 3D assets for various projects.",
     image: "/images/blender-preview.jpg"
   },
   {
